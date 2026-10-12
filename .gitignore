@@ -1,0 +1,13 @@
+node_modules
+dist
+coverage
+
+# Environment
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
